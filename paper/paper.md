@@ -1,28 +1,27 @@
----
-title: "YOURTITLE"
-subtitle: "YOURSUBTITLE"
-author: [Author1, Author2]
-date: "yyyy/mm/dd"
-lang: "en"
-colorlinks: true
-titlepage: true
-titlepage-text-color: "FFFFFF"
-titlepage-rule-color: "360049"
-titlepage-rule-height: 0
-titlepage-background: "./figures/cover.pdf"
-header-left: "\\hspace{1cm}"
-header-right: "Page \\thepage"
-footer-left: "Footer left"
-footer-right: "Footer right"
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
----
+\title{
+A token to crowdsource and sell (financial) research (insights?).
+}
 
-# Introduction
+CrunchDAO is a research team of data scientists leveraging the power of collective intelligence and Web3 to produce and sell next-generation predictive financial insights. The community seeks profit from patterns in the stock market, using a democratic reward-driven tournament model to produce and sell trading signals that generate returns, regardless of market conditions, to top-tier investment firms and hedge funds.
 
-One of the most important paper of the last century is [@einstein].
+The CrunchDAO tournament brings decentralized scientific innovation (DeSci) to the world of finance. Over 2,000 data scientists and 400 PHDs compete to accurately predict the stock market, earning rewards for their predictions based on the performance of live financial data.
 
-# Conclusions
+\section{A. Predicting the Market: a community led research framework}
 
-Enjoy!
+CrunchDAO uses a community led research approach to predict the stock market.
 
-# References
+The community:
+
+- Collects signals from all over the world,
+
+- Collects predictions from the CrunchDAO Tournament
+
+- Ensemble all predictions and signal in one Meta Model
+
+- Optimize the Meta Model
+
+All these steps are supported by a Decentralized Science Platform to build knowledge incrementally.
+
+![](figures/1.jpeg)
+
+A. Crunch Alpha
